@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+
+  Copyright © 2015 . All rights reserved.
+*/
+
+"OK" = "OK";
+"loginFailure" = "Қолданушының аты немесе құпиясөз қате терілді";
+"accessDenied" = "Өкінішке орай рұқсат берілмеген";
+"tokenInvalid" = "Өкінішке орай сіздің токеніңіз жарамсыз, қайтадан жүйеге кіріңіз";
+"loginFailureTitle" = "Жүйеге кіру қол жетімсіз";
+"loadFailure" = "Деректерді жүктеу кезінде ақаулықтар орын алды. Кейінірек қайталаңыз";
+"loadFailureTitle" = "Деректер жүктелмеді";
+
+"locationFailure" = "Геолокация қызметтерін қосыңыз";
+"contactFailure" = "Контакт тізіміне рұқсатты қосыңыз";
+"connectionFailure" = "Серверге қосылу қолжетімсіз";
+"searchFailure" = "Нәтижесіз";
+
+"anotherAppConnectedToJabber" = "Сіздің аккаунтыңызбен басқа құрылғыда жүйеге кіргендіктен, бұл құрылғы жүйеден шығарылады";
+"locating" = "Орналасқан жеріңіз ізделінуде. Күте тұрыңыз";
+"startDialog" = "Сұхбат бастау";
+"errorOccurred" = "Қателік орын алды";
+"connected" = "Сервис қосылды";
+"deleteFromFavourites" = "Контактіні Таңдамалыдан өшіруге сенімдісіз бе?";
+"connectedState" = "Қосылған";
+"notConnectedState" = "Қосылмаған";
+
+"hold" = "Ұсталынды";
+"connection" = "Қосылу";
+"incomingCall" = "Кіріс қоңырауы";
+"outgoingCall" = "Шығыс қоңырауы";
+"finishCall" = "Қоңырауды аяқтау";
+
+"error" = "Қателік";
+"settings" = "Баптау";
+"favourite" = "Таңдамалы";
+"cancel" = "Болдырмау";
+"logout" = "Жүйеден шығу";
+"no" = "Жоқ";
+"yes" = "Иә";
+"messages" = "Хабарламалар";
+"calls" = "Қоңыраулар";
+
+"today" = "Бүгін";
+"yesterday" = "Кеше";
+"monday" = "Дүйсенбі";
+"tuesday" = "Сейсенбі";
+"wednesday" = "Сәрсенбі";
+"thursday" = "Бейсенбі";
+"friday" = "Жұма";
+"saturday" = "Сенбі";
+"sunday" = "Жексенбі";
+
+"audio" = "Аудиожазба";
+"image" = "Сурет";
+"video" = "Видеожазба";
+"location" = "Геолокация";
