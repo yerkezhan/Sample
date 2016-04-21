@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+
+  Copyright © 2015. All rights reserved.
+*/
+
+"OK" = "OK";
+"loginFailure" = "Неправильный логин или пароль";
+"accessDenied" = "К сожалению доступ запрещен";
+"tokenInvalid" = "К сожалению Ваш токен является недействительным, пожалуйста, авторизуйтесь заново";
+"loginFailureTitle" = "Не удается войти";
+"loadFailure" = "Произошел сбой при загрузке данных. Попробуйте позже";
+"loadFailureTitle" = "Не удалось загрузить данные";
+
+"locationFailure" = "Включите службы геолокации";
+"contactFailure" = "Включите доступ к контактам";
+"connectionFailure" = "Невозможно подключиться к серверу";
+"searchFailure" = "Не найдено";
+
+"anotherAppConnectedToJabber" = "В ваш аккаунт был выполнен вход на другом устройстве, поэтому на этом будет произведен выход";
+"locating" = "Идет распознование местоположения. Пожалуйста, подождите";
+"startDialog" = "Начать беседу";
+"errorOccurred" = "Произошла ошибка";
+"connected" = "Сервис подключен";
+"deleteFromFavourites" = "Удалить контакт из Избранных?";
+"connectedState" = "Подключено";
+"notConnectedState" = "Не подключено";
+
+"hold" = "На удержании";
+"connection" = "Соединение";
+"incomingCall" = "Входящий вызов";
+"outgoingCall" = "Исходящий вызов";
+"finishCall" = "Завершить вызов";
+
+"error" = "Ошибка";
+"settings" = "Настройки";
+"favourite" = "Избранное";
+"cancel" = "Отмена";
+"logout" = "Выйти";
+"no" = "Нет";
+"yes" = "Да";
+"messages" = "Cообщения";
+"calls" = "Звонки";
+
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"monday" = "Понедельник";
+"tuesday" = "Вторник";
+"wednesday" = "Среда";
+"thursday" = "Четверг";
+"friday" = "Пятница";
+"saturday" = "Суббота";
+"sunday" = "Воскресенье";
+
+"audio" = "Аудиозапись";
+"image" = "Изображение";
+"video" = "Видеозапись";
+"location" = "Местоположение";
